@@ -1,5 +1,6 @@
 # the-craft-of-selfteaching
 
+
 > One has no future if he couldn't teach himself.
 
 # 自学是门手艺
